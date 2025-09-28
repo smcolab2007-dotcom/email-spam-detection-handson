@@ -1,3 +1,4 @@
+![Email Spam Detection](cover.png)
 # Email Spam Detection Hands-on
 
 **Brief:**  
